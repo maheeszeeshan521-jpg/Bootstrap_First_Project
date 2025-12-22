@@ -1,0 +1,48 @@
+    <!--navbar starting1  -->
+     <nav class="navbar navbar-expand-lg bg-transparent text-white">
+       <div class="container-fluid">
+    <a href="" class="d-lg-none"><img src="basketball-svgrepo-com.svg" alt="" width="30" height="30" class="mt-2">
+    </a>
+    <a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-center " id="navbarNav">
+      
+      <div class="d-lg-none bg-dark">
+        <div class="navbar-nav gap-3">
+          <li class="nav-item text-white">
+            <a class="nav-link text-white" href="#">Home</a></li>
+            <li class="nav-item text-white">
+              <a class="nav-link text-white" href="#">Features</a></li>
+              <li class="nav-item text-white">
+                <a class="nav-link text-white" href="#">Pricing</a></li>
+                <li class="nav-item text-white">
+                  <a class="nav-link text-white" href="#">Blog</a></li>
+                  <a href="">
+                    <img src="basketball-svgrepo-com.svg" alt="" width="20" height="20" class="mt-2">
+                  </a>
+                  <li class="nav-item"><a class="nav-link text-white" href="#">Be</a></li>
+          </div>
+      </div>
+
+  <div class="d-none d-lg-block ">
+      <ul class="navbar-nav gap-3">
+        <li class="nav-item text-white">
+            <a class="nav-link text-white" href="#">Home</a></li>
+              <li class="nav-item text-white">
+            <a class="nav-link text-white" href="#">Features</a></li>
+              <li class="nav-item text-white">
+            <a class="nav-link text-white" href="#">Pricing</a></li>
+              <li class="nav-item text-white">
+            <a class="nav-link text-white" href="#">Blog</a></li>
+              <img src="basketball-svgrepo-com.svg" alt="" width="20" height="20" class="mt-2">
+              <li class="nav-item"><a class="nav-link text-white" href="#">Be</a></li>
+      </ul>
+  </div>
+
+
+    </div>
+  </div>
+</nav>
+  <!-- Navbar Ending   -->
