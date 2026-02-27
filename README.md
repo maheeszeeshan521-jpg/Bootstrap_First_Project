@@ -58,9 +58,8 @@ This project demonstrates modern web development practices for building a respon
 ## 👨‍💻 Author
 
 **Your Name**
-- [LinkedIn Profile](https://linkedin.com/in/your-profile)
-- [GitHub Profile](https://github.com/your-username)
-- [Portfolio Website](https://your-portfolio.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/mahees-zeeshan-bdo/)
+
 
 ## 📝 Acknowledgments
 - Design inspired by the **Startup Framework** by Designmodo.
@@ -68,3 +67,4 @@ This project demonstrates modern web development practices for building a respon
 
 ---
 *If you find this project interesting, don't forget to ⭐ star the repository!*
+
